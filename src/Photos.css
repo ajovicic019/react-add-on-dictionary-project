@@ -1,6 +1,7 @@
 .Photos img {
   margin-bottom: 20px;
   border-radius: 4px;
+  transition: all 150ms ease-in-out;
 }
 .Photos img:hover {
   transform: scale(1.1);
